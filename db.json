@@ -1,9 +1,115 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "cars": [
+      {
+        "id": 101,
+        "model": "Corolla",
+        "manufacturerId": 1,
+        "type": "Sedan",
+        "year": 2023,
+        "price": 20000,
+        "engineType": "Hybrid",
+        "rating": 4.5,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 102,
+        "model": "Mustang",
+        "manufacturerId": 2,
+        "type": "Coupe",
+        "year": 2022,
+        "price": 55000,
+        "engineType": "Gasoline",
+        "rating": 4.8,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 103,
+        "model": "i8",
+        "manufacturerId": 3,
+        "type": "Sports",
+        "year": 2021,
+        "price": 140000,
+        "engineType": "Electric",
+        "rating": 4.9,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 104,
+        "model": "Camry",
+        "manufacturerId": 1,
+        "type": "Sedan",
+        "year": 2023,
+        "price": 25000,
+        "engineType": "Gasoline",
+        "rating": 4.4,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 105,
+        "model": "F-150",
+        "manufacturerId": 2,
+        "type": "Truck",
+        "year": 2023,
+        "price": 40000,
+        "engineType": "Diesel",
+        "rating": 4.6,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 106,
+        "model": "3 Series",
+        "manufacturerId": 3,
+        "type": "Sedan",
+        "year": 2023,
+        "price": 45000,
+        "engineType": "Hybrid",
+        "rating": 4.7,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 107,
+        "model": "Model S",
+        "manufacturerId": 4,
+        "type": "Sedan",
+        "year": 2022,
+        "price": 79999,
+        "engineType": "Electric",
+        "rating": 4.9,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 108,
+        "model": "RAV4",
+        "manufacturerId": 1,
+        "type": "SUV",
+        "year": 2023,
+        "price": 30000,
+        "engineType": "Hybrid",
+        "rating": 4.6,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 109,
+        "model": "Explorer",
+        "manufacturerId": 2,
+        "type": "SUV",
+        "year": 2022,
+        "price": 32000,
+        "engineType": "Gasoline",
+        "rating": 4.4,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      },
+      {
+        "id": 110,
+        "model": "5 Series",
+        "manufacturerId": 3,
+        "type": "Sedan",
+        "year": 2023,
+        "price": 52000,
+        "engineType": "Diesel",
+        "rating": 4.7,
+        "image": "https://scene7.toyota.eu/is/image/toyotaeurope/cors0001a_web_2023:Medium-Landscape?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+      }
+    ]
+  }
+  
